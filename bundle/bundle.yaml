@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "ukuko-org-dev-controller"
+description: "CloudBees CI configuration bundle for the ukuko-org dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/ukuko-org/dev-controller"
+parent: "base"
