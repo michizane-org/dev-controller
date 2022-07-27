@@ -1,0 +1,4 @@
+variables:
+- team: ukuko-org
+- admin-user: ukuko-admin
+- manager-user: ukuko
